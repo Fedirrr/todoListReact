@@ -1,0 +1,16 @@
+.item-add-form{
+    margin-top: 10px;
+}
+.addItem{
+    border: 1px solid lightgray;
+    outline: none;
+    width: 150px;
+    height: 40px;
+}
+.addItem:hover{
+    background-color: lightgray;
+    color: white;
+}
+.item-add-form input {
+    margin-right: 3px;
+}

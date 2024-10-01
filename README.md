@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Getting Started with Create React App2
 
 This project was bootstrapped with [Create React App2](https://github.com/facebook/create-react-app).
+=======
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+>>>>>>> origin/main
 
 ## Available Scripts
 
@@ -41,7 +47,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
+<<<<<<< HEAD
 You can learn more in the [Create React App2 documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+=======
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+>>>>>>> origin/main
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
@@ -53,7 +63,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+<<<<<<< HEAD
 ### Making a Progressive Web App2
+=======
+### Making a Progressive Web App
+>>>>>>> origin/main
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 

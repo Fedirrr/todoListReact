@@ -10,9 +10,9 @@ const ItemAddForm = ({ onItemAdded }) => {
 
     const onSubmit = (e) => {
         e.preventDefault();
-        if (label.trim()) { // Проверка на пустую строку
+        if (label.trim()) {
             onItemAdded(label);
-            setLabel(''); // Очистка поля ввода
+            setLabel('');
         }
     };
 
